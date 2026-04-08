@@ -1,0 +1,5 @@
+{
+  "name": "ChunkFlow: Resumable File Transfer Prototype",
+  "description": "A prototype demonstrating chunk-based file transfer with resume capability, pause/resume, and transfer speed simulation.",
+  "requestFramePermissions": []
+}
